@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container-lg{
+    gap: 10px;
+}
+
+
+#Weather_area{
+    display: flex;
+    justify-content: center;
+    border: none;
+}
+
+.card-body{
+    background-color: #D3EAE7;
+}
+
+#title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 2.5em;
+    background-color: #B7317C;
+    color: white;
+    padding: 5px;
+}
